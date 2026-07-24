@@ -1,0 +1,114 @@
+# Android Gradle files
+*.apk
+*.ap_
+*.dex
+*.class
+.gradle
+/build/
+/captures/
+/.gradle/
+
+# Android Studio
+.idea/
+.idea/workspace.xml
+.idea/tasks.xml
+.idea/gradle.xml
+.idea/assetWizardSettings.xml
+.idea/dictionaries
+.idea/vcs.xml
+.idea/jsLibraryMappings.xml
+.idea/caches
+.idea/caches/build_file_checksums.ser
+*.iml
+*.iws
+*.ipr
+
+# Gradle wrapper
+gradle/wrapper/gradle-wrapper.jar
+
+# Local properties
+local.properties
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Android Studio captures folder
+captures/
+
+# Intellij
+*.log
+*.swp
+*.swo
+*~
+
+# Maven
+target/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+dependency-reduced-pom.xml
+.mvn/timing.properties
+
+# Kotlin
+kotlin-build/
+
+# Build outputs
+/out/
+*.jar
+*.war
+*.ear
+
+# Misc
+*.bak
+*.tmp
+*~.nib
+*.so
+
+# NDK
+*.so
+obj/
+
+# Test coverage
+*.ec
+*.em
+.coverage
+htmlcov/
+
+# Lint results
+lint-results.txt
+lint-results-release-warnings.txt
+
+# Signing files
+*.jks
+*.keystore
+*.p12
+*.p8
+*.pem
+
+# Generated files
+gen/
+.apt_generated/
+.classpath
+.project
+.settings/
+.springBeans
+*.sublime-workspace
+.vscode/
+
+# Libraries
+/libraries/
+*.aar
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.pytest_cache/
+junit/
